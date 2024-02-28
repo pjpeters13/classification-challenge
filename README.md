@@ -1,5 +1,5 @@
 # classification-challenge
-                                                                       Module 13 Challenge
+                                                        Module 13 Challenge
 
  This project focuses on building and comparing two machine learning models, Logistic Regression and Random Forest Classifier, to classify emails as spam or not spam. The dataset used in this project is sourced from the UCI Machine Learning Repository and includes various features derived from the email text. This README outlines the steps taken in this project, from data retrieval to model evaluation.
 
