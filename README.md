@@ -51,5 +51,5 @@ Conclusion
 The project successfully demonstrated the application of Logistic Regression and Random Forest Classifier models for spam classification. The Random Forest Classifier showed superior performance, highlighting its effectiveness in dealing with complex datasets. This README provides a comprehensive guide through the project's workflow, enabling replication and further exploration.
 
 
-![image](https://github.com/pjpeters13/classification-challenge/assets/71742689/341ac0fb-043f-4b13-b9dd-e29b2af36ecc)
+
 
